@@ -1,0 +1,138 @@
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\RESTserver.dll.config
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\RESTserver.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\RESTserver.pdb
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\csc.exe
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\csc.exe.config
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\csc.rsp
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\csi.exe
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\csi.exe.config
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\csi.rsp
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.AppContext.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Console.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.IO.Compression.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Security.Claims.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.ValueTuple.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\vbc.exe
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\vbc.exe.config
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\vbc.rsp
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\VBCSCompiler.exe
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\Newtonsoft.Json.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\System.Net.Http.Formatting.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\System.Web.Http.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\System.Web.Http.WebHost.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\Newtonsoft.Json.xml
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\System.Net.Http.Formatting.xml
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\System.Web.Http.xml
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\System.Web.Http.WebHost.xml
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\ru\System.Web.Http.resources.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\obj\Debug\RESTserver.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\obj\Debug\RESTserver.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\obj\Debug\RESTserver.csproj.CopyComplete
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\obj\Debug\RESTserver.dll
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\obj\Debug\RESTserver.pdb
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\obj\Debug\RESTserver.Properties.Resources.resources
+C:\Users\Администратор\source\repos\RESTserver\RESTserver\obj\Debug\RESTserver.csproj.GenerateResource.cache
+D:\Тестовое задание\RESTserver\RESTserver\bin\RESTserver.dll.config
+D:\Тестовое задание\RESTserver\RESTserver\bin\RESTserver.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\RESTserver.pdb
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\csc.exe
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\csc.exe.config
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\csc.rsp
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\csi.exe
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\csi.exe.config
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\csi.rsp
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.AppContext.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Collections.Immutable.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Console.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.IO.Compression.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.IO.FileSystem.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.IO.Pipes.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Reflection.Metadata.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Security.AccessControl.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Security.Claims.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.ValueTuple.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Xml.XPath.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\vbc.exe
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\vbc.exe.config
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\vbc.rsp
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\VBCSCompiler.exe
+D:\Тестовое задание\RESTserver\RESTserver\bin\roslyn\VBCSCompiler.exe.config
+D:\Тестовое задание\RESTserver\RESTserver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\Newtonsoft.Json.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\System.Net.Http.Formatting.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\System.Web.Http.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\System.Web.Http.WebHost.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\Newtonsoft.Json.xml
+D:\Тестовое задание\RESTserver\RESTserver\bin\System.Net.Http.Formatting.xml
+D:\Тестовое задание\RESTserver\RESTserver\bin\System.Web.Http.xml
+D:\Тестовое задание\RESTserver\RESTserver\bin\System.Web.Http.WebHost.xml
+D:\Тестовое задание\RESTserver\RESTserver\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Тестовое задание\RESTserver\RESTserver\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\ru\System.Web.Http.resources.dll
+D:\Тестовое задание\RESTserver\RESTserver\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Тестовое задание\RESTserver\RESTserver\obj\Debug\RESTserver.csprojAssemblyReference.cache
+D:\Тестовое задание\RESTserver\RESTserver\obj\Debug\RESTserver.Properties.Resources.resources
+D:\Тестовое задание\RESTserver\RESTserver\obj\Debug\RESTserver.csproj.GenerateResource.cache
+D:\Тестовое задание\RESTserver\RESTserver\obj\Debug\RESTserver.csproj.CoreCompileInputs.cache
+D:\Тестовое задание\RESTserver\RESTserver\obj\Debug\RESTserver.csproj.CopyComplete
+D:\Тестовое задание\RESTserver\RESTserver\obj\Debug\RESTserver.dll
+D:\Тестовое задание\RESTserver\RESTserver\obj\Debug\RESTserver.pdb
